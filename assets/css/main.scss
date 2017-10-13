@@ -1,0 +1,28 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+// Reset
+//@import "_reset.scss";
+
+// // Definings
+// @import "_variables.scss";
+// @import "_mixins.scss";
+
+// // Global Styles
+// @import "_common.scss";
+
+
+// // Page Specifics
+// @import "_header.scss";
+// @import "_post.scss";
+@import "_footer.scss";
+
+// // Other Pages
+// @import "_page.scss";
+
+
+// // Misc
+
+// @import "_buttons.scss";

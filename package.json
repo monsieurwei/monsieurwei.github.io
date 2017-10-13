@@ -1,0 +1,15 @@
+{
+  "name": "personal-page",
+  "version": "1.0.0",
+  "description": "Weiqiang Liu's personal page",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weiqiang Liu",
+  "license": "MIT"
+}
